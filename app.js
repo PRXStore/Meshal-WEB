@@ -31,3 +31,5 @@ function Sections() {
 document.addEventListener("DOMContentLoaded", () => {
     Sections()
 })
+
+console.log("pRX")
